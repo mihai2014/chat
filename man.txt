@@ -1,0 +1,20 @@
+https://socket.io/get-started/chat/
+
+??
++ socket.io@2.3.0
+added 45 packages from 26 contributors and audited 91 packages in 2.319s
+found 8 vulnerabilities (3 low, 2 moderate, 3 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
+??
+
+Socket.IO is composed of two parts:
+-A server that integrates with (or mounts on) the Node.JS HTTP Server socket.io
+-A client library that loads on the browser side socket.io-client
+
+npm install express@4.15.2
+...
+node index.js
+
+npm install socket.io
+
+
